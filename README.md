@@ -57,3 +57,26 @@ cd satmonitor-cybersecurity
 
 # Ou especifique um alvo
 ./scripts/scan_satmonitor.sh 192.168.1.100
+---
+
+## 👥 Grupo Software Mavericks
+
+| Nome | RM | Função |
+|------|----|--------|
+| Luiz Felipe Motta da Silva | RM 559126 | Desenvolvimento e Documentação |
+| Nicolas Lorenzo Ferreira da Silva | RM 557962 | Testes e Implementação |
+| Pedro Henrique Faim dos Santos | RM 557440 | Arquitetura e Coordenação |
+
+**Curso:** Engenharia de Software  
+**Disciplina:** Cibersegurança  
+**Professor:** Prof. MSc. Oerton Fernandes  
+**Turma:** 3ESR  
+**Data:** 28 de maio de 2026  
+**Instituição:** FIAP  
+
+---
+
+## Licença
+
+Este projeto é distribuído sob a licença **MIT**.
+
