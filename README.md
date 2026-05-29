@@ -69,10 +69,8 @@ cd satmonitor-cybersecurity
 
 **Curso:** Engenharia de Software  
 **Disciplina:** Cibersegurança  
-**Professor:** Prof. MSc. Oerton Fernandes  
 **Turma:** 3ESR  
-**Data:** 28 de maio de 2026  
-**Instituição:** FIAP  
+  
 
 ---
 
